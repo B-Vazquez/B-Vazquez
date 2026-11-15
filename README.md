@@ -22,7 +22,7 @@ My projects cover Android apps with local storage and automated builds, Spring B
 |---|---|
 | [Vacation Planner](https://github.com/B-Vazquez/Vacation-Planner-Mobile-App) | Android app (Java, Room/SQLite, MVVM) for planning trips, tracking excursions, and sharing itineraries, with unit tests and a GitHub Actions workflow that publishes a signed [downloadable APK](https://b-vazquez.github.io/Vacation-Planner-APK/) |
 | [Tarkov Loot Advisor](https://github.com/B-Vazquez/Tarkov-Loot-Advisor) | In progress: Java / Spring Boot web app (Angular UI planned) to compare Escape from Tarkov item sale options using Tarkov.dev data |
-| [Interactive World Map](https://github.com/B-Vazquez/D280) | Angular 17 app that shows World Bank country data from an interactive map ([live site](https://b-vazquez.github.io/D280/)) |
+| [Interactive World Map](https://github.com/B-Vazquez/interactive-world-map) | Angular 17 app that shows World Bank country data from an interactive map ([live site](https://b-vazquez.github.io/interactive-world-map/)) |
 
 ## Skills
 
